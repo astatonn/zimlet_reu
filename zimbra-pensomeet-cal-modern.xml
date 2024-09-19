@@ -1,0 +1,10 @@
+<zimlet name="zimbra-pensomeet-cal-modern" version="3.5.0" description="Add a Penso Meet link to an appointment" label="Penso Meet Zimlet" zimbraXZimletCompatibleSemVer=">=2.0.0">
+	<resource>3385e76e212779c321fd175c66e8b94a.png</resource>
+	<resource>config_template.xml</resource>
+	<include>index.js</include>
+	<resource>index.js.map</resource>
+	<resource>zimbra-zimlet-jitsi.xml</resource>
+	<resource>zimbra-zimlet-penso-meet.xml</resource>
+	<resource>zimbra-zimlet-simple-theme.xml</resource>
+	<description>ZReuMeet</description>
+</zimlet>

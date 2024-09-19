@@ -1,0 +1,6 @@
+<zimlet name="zimbra-pensomeet-cal-modern" version="3.5.0" description="Add a Jitsi link to an appointment" label="Jitsi Zimlet" zimbraXZimletCompatibleSemVer=">=2.0.0">
+	<resource>config_template.xml</resource>
+	<include>index.js</include>
+	<resource>index.js.map</resource>
+	<resource>zimbra-zimlet-simple-theme.xml</resource>
+</zimlet>

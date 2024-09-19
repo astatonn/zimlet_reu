@@ -1,0 +1,5 @@
+<zimlet name="zimbra-zimlet-simple-theme" version="0.0.3" description="Add a Jitsi link to an appointment" label="Jitsi Zimlet" zimbraXZimletCompatibleSemVer=">=2.0.0">
+	<resource>config_template.xml</resource>
+	<include>index.js</include>
+	<resource>index.js.map</resource>
+</zimlet>
