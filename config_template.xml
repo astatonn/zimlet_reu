@@ -1,5 +1,5 @@
 <zimletConfig name="zimbra-pensomeet-cal-modern" version="2.0.0">
     <global>
-        <property name="jitsiUrl">https://meetlogin.51ct.eb.mil.br</property>
+        <property name="jitsiUrl">https://zreuweb.webmail.eb.mil.br</property>
     </global>
 </zimletConfig>
